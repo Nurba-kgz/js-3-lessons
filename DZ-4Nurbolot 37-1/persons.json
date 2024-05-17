@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Cristiano Ronaldo",
+    "age": 39,
+    "person_photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/RonaldoAl-Nassr23.jpg/170px-RonaldoAl-Nassr23.jpg"
+  },
+  {
+    "name": "Neymar Jr",
+    "age": 32,
+    "person_photo": "https://tmssl.akamaized.net/images/foto/galerie/neymar-brazil-2022-1668947300-97010.jpg?lm=1668947335"
+  },
+  {
+    "name": "Lionel Messi",
+    "age": 36,
+  "person_photo": "https://tmssl.akamaized.net/images/foto/galerie/lionel-messi-1711467863-132837.jpg?lm=1711467875"
+  },
+  {
+    "name": "Vinicius Jr",
+    "age": 23,
+    "person_photo": "https://www.fifpro.org/media/fhxkcocj/imago1036849243h.jpg"
+  },
+  {
+    "name": "Jude Bellingham",
+    "age": 20,
+    "person_photo": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F6df0eed8-5a2b-11ee-a2f0-395ea69e16d7.jpg?crop=3339%2C1878%2C1714%2C663&resize=1200"
+  }
+]
